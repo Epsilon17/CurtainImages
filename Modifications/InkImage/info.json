@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://raw.githubusercontent.com/Epsilon17/CurtainImages/master/Modifications/InkImage/info.json",
+  "@id": "https://raw.githubusercontent.com/Epsilon17/CurtainImages/master/Modifications/InkImage",
   "height": 888,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
