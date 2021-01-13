@@ -63,5 +63,5 @@
     "height": 2334, 
     "width": 1696, 
     "@context": "http://iiif.io/api/image/2/context.json", 
-    "@id": "Page001Test"
+    "@id": "https://raw.githubusercontent.com/Epsilon17/CurtainImages/master/Modifications/page001/info.json"
 }
