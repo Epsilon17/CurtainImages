@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": ""https://raw.githubusercontent.com/Epsilon17/CurtainImages/master/ExampleImages/Ghissi_Area1_New",
+  "@id": "https://raw.githubusercontent.com/Epsilon17/CurtainImages/master/ExampleImages/Ghissi_Area1_New",
   "height": 800,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
